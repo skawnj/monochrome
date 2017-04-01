@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
+ <title>Emil Sinclair - Thoughts and Interests</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-04-01T20:47:49+09:00</updated>
+ <updated>2017-04-02T02:34:47+09:00</updated>
  <author>
-   <name>The Review Index</name>
-   <uri>https://thereviewindex.com</uri>
-   <email>dyutibarma@gmail.com</email>
+   <name>Emil K</name>
+   <uri>https://nowhere.com</uri>
+   <email>no-mail@nomail.com</email>
  </author>
 
  
@@ -24,7 +24,7 @@
  
 
  <entry>
-   <title>유제품 배달원과 노동 구조</title>
+   <title>서비스 노동자로서의 유제품 배달원</title>
    <link href="http://localhost:4000/%EC%9C%A0%EC%A0%9C%ED%92%88_%EB%B0%B0%EB%8B%AC%EC%9B%90%EA%B3%BC_%EB%85%B8%EB%8F%99_%EA%B5%AC%EC%A1%B0"/>
    <id>http://localhost:4000/유제품_배달원과_노동_구조</id>
    <updated>2017-03-28T00:00:00+09:00</updated>

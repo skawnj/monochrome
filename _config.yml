@@ -1,11 +1,11 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+title: Emil Sinclair - Thoughts and Interests
+description: "Share thoughts and interests all around the world."
 url: "http://skawnj.github.io"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "Emil K"
+  email: "no-mail@nomail.com"
+  url: "https://nowhere.com"
 
 # Build settings
 baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
