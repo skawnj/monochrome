@@ -4,7 +4,7 @@
  <title>Emil Sinclair - Thoughts and Interests</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-04-09T00:09:09+09:00</updated>
+ <updated>2017-04-19T22:56:38+09:00</updated>
  <author>
    <name>Emil K</name>
    <uri>https://nowhere.com</uri>
@@ -14,11 +14,31 @@
  
 
  <entry>
+   <title>제4차 산업혁명 - 기술 혁신과 생산성 혁신의 강한 결합</title>
+   <link href="http://localhost:4000/%EC%A0%9C4%EC%B0%A8-%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85-%EA%B8%B0%EC%88%A0-%ED%98%81%EC%8B%A0%EA%B3%BC-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%98%81%EC%8B%A0%EC%9D%98-%EA%B0%95%ED%95%9C-%EA%B2%B0%ED%95%A9"/>
+   <id>http://localhost:4000/제4차 산업혁명 - 기술 혁신과 생산성 혁신의 강한 결합</id>
+   <updated>2017-04-19T00:00:00+09:00</updated>
+   <content type="html">&lt;blockquote&gt; &lt;p&gt;보스턴 컨설팅 그룹 파리(BCG Paris) Olivier Scalabre TED 강의 “The next manufacturing revolution is here”(‘16. 5.)의 내용을 요약&lt;/p&gt; &lt;/blockquote&gt; &lt;center&gt; &lt;iframe src=&quot;https://embed.ted.com/talks/lang/ko/olivier_scalabre_the_next_manufacturing_revolution_is_here&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt; &lt;p&gt;&lt;br /&gt; 새로운 산업혁명은 제조업 중심의 생산성 혁명이 될 것이다. 지금까지는 생산 위치 이동(offshoring), 생산 규모 확대(과잉 생산 후...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Git 요령 메모</title>
+   <link href="http://localhost:4000/Git-%EC%9A%94%EB%A0%B9-%EB%A9%94%EB%AA%A8"/>
+   <id>http://localhost:4000/Git 요령 메모</id>
+   <updated>2017-04-18T00:00:00+09:00</updated>
+   <content type="html">&lt;h1 id=&quot;git&quot;&gt;Git&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;git clone: repo를 local에 그대로 복제함.&lt;/li&gt; &lt;li&gt;git pull: git fetch + git merge&lt;/li&gt; &lt;li&gt;git diff&lt;/li&gt; &lt;li&gt;git add &lt;ul&gt; &lt;li&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;git add [–all&lt;/td&gt; &lt;td&gt;-A]: 모두를 스테이징함.&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;/li&gt; &lt;li&gt;git add .: 삭제 없이 신규, 변경만 스테이징함.&lt;/li&gt; &lt;li&gt;git add -u: 신규 없이 변경, 삭제만...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>뉴스 리더 Facebook, '혼자만의 좋아요'가 필요하다.</title>
    <link href="http://localhost:4000/%EB%89%B4%EC%8A%A4-%EB%A6%AC%EB%8D%94-Facebook,-'%ED%98%BC%EC%9E%90%EB%A7%8C%EC%9D%98-%EC%A2%8B%EC%95%84%EC%9A%94'%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4"/>
    <id>http://localhost:4000/뉴스 리더 Facebook, '혼자만의 좋아요'가 필요하다</id>
    <updated>2017-04-09T00:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;Facebook 게시물에는 댓글 말고도 ‘좋아요’ 등의 피드백을 등록할 수 있다. 피드백 기능을 이용하면 게시물에 대한 반응이 간편하게 제시할 수 있다. 사용자는 여섯 종류의 피드백을 고를 수 있는데, ‘좋아요’(엄지 손가락), ‘최고에요’(하트), ‘웃겨요’(폭소), ‘멋져요’(놀람), ‘슬퍼요’(눈물), ‘화나요’(분노)가 그 여섯이다. 이를 통해 긍정적 또는 부정적 느낌을 비교적 세밀하게 표현할 수 있다.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://assets.wired.com/photos/w_860/wp-content/uploads/2016/02/Reactions-Black.jpg&quot; alt=&quot;&quot;...</content>
+   <content type="html">&lt;p&gt;Facebook 게시물에는 댓글 말고도 ‘좋아요’ 등의 피드백을 등록할 수 있다. 피드백 기능을 이용하면 게시물에 대한 반응을 간편하게 제시할 수 있다. 사용자는 여섯 종류의 피드백을 고를 수 있는데, ‘좋아요’(엄지 손가락), ‘최고에요’(하트), ‘웃겨요’(폭소), ‘멋져요’(놀람), ‘슬퍼요’(눈물), ‘화나요’(분노)가 그 여섯이다. 이를 통해 긍정적 또는 부정적 느낌을 비교적 세밀하게 표현할 수 있다.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://assets.wired.com/photos/w_860/wp-content/uploads/2016/02/Reactions-Black.jpg&quot; alt=&quot;&quot;...</content>
  </entry>
 
  
